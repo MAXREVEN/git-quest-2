@@ -1,10 +1,5 @@
-! .env.eample
-env.eample
-*.log
-build/
-__pycache_/
-.env
 ! .env.example
+.env
 *.log
 build/
-_pycache_/
+__pycache__/
