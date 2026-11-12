@@ -1,0 +1,10 @@
+! .env.eample
+env.eample
+*.log
+build/
+__pycache_/
+.env
+! .env.example
+*.log
+build/
+_pycache_/
